@@ -1,0 +1,8 @@
+*.log
+*_test.cpp
+
+*_demo.cpp
+*_demo
+*.exe
+a.out
+
